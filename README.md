@@ -15,11 +15,11 @@ Create an account at http://openshift.redhat.com/ and install the client tools (
 
 Create a php-5.3 application (you can call your application whatever you want)
 
-    rhc app create wordpress php-5 mysql-5 --from-code=https://github.com/openshift/wordpress-example
+    rhc app create wordpress php-5 mysql-5 --from-code=https://github.com/getupcloud/wordpress-example
 
 That's it, you can now checkout your application at:
 
-    http://wordpress-$yournamespace.rhcloud.com
+    http://wordpress-$yournamespace.getup.io
     
 You'll be prompted to set an admin password and name your WordPress site the first time you visit this 
 page.  

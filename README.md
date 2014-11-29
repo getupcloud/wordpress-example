@@ -14,7 +14,7 @@ Crie uma conta em http://getupcloud.com e instale o CLI ( veja aqui: https://get
 
 Crie uma aplicação php-5.4 ( o nome fica por sua conta )
 
-    rhc app create wordpress php-5.4 mysql-5.4 --from-code=https://github.com/getupcloud/wordpress-exemplo
+    rhc app create wordpress php-5.4 mysql-5.5 --from-code=https://github.com/getupcloud/wordpress-exemplo
 
 Pronto, basta acessar a url e finalizar a instalação:
 

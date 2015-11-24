@@ -7,7 +7,7 @@ O backend de banco de dados é o MySQL e o nome da base de dados é a mesma de s
 Entretanto, o nome da base de dados sempre será correspondente ao nome da aplicação.
 
 
-Criado a aplicação:
+Criando a aplicação:
 ----------------------------
 
 Crie uma conta em http://getupcloud.com e instale o CLI ( veja aqui: https://getup.zendesk.com/entries/38781627 )
